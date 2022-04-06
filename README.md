@@ -1,2 +1,4 @@
 # Web_Apps
-https://it1726.github.io/Web_Apps/
+https://toskad.github.io/Web_Apps/
+
+Stránka popisující webové aplikace.
